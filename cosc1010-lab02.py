@@ -5,7 +5,6 @@
 # Lab Section: 14 
 # Sources, people worked with, help given to: None
 
-
 your_variable_here = "when you see this, replace it with your code"
 
 ## Section ONE
