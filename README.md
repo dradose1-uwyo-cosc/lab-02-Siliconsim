@@ -1,12 +1,7 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# Jake
+## Lab 02
+## 09/16/24 
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* None
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* None
